@@ -22,5 +22,5 @@ I love to talk about algorithm, automations, design patterns, code patterns, and
 ### Get in Touch
 * Personal Website: [ayodelesamueladebayo.netlify.app](http://ayodelesamueladebayo.netlify.app/)
 * LinkedIn: [Ayodele Samuel Adebayo](https://www.linkedin.com/in/ayodele-samuel-ayodele-55902819a/)
-* Dev.to: [obaolanrewajuadeola](https://medium.com/@obaolanrewajuadeola)
+* Medium: [obaolanrewajuadeola](https://medium.com/@obaolanrewajuadeola)
 
