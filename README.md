@@ -1,6 +1,6 @@
 ## 👋 Hey there
 
-![Readme Cover](https://github.com/unclebay143/unclebay143/cover.jpeg)
+![Readme Cover](https://github.com/unclebay143/unclebay143/cover.jpg)
 
 My name is Ayodele Samuel Adebayo, and I am a Front-end developer.
 
