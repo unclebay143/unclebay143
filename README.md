@@ -1,16 +1,26 @@
-### Hi there 👋
+## 👋 Hey there
 
-<!--
-**unclebay143/unclebay143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Readme Cover](https://github.com/unclebay143/unclebay143/cover.jpeg)
 
-Here are some ideas to get you started:
+My name is Ayodele Samuel Adebayo, and I am a Front-end developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am currently a Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer .
+
+Solving problems with my software development skills is what moves me and keeps me in a constant search for knowledge.
+
+I have proficiency in JavaScript, HTML, CSS and packages / libraries such as:
+- ReactJS
+- Bootstrap
+Also:
+- Django
+- Python
+
+The tools come and go, but some concepts are kept, that's where I keep my efforts.
+
+I love to talk about algorithm, automations, design patterns, code patterns, and things that make me a better developer.
+
+### Get in Touch
+* Personal Website: [ayodelesamueladebayo.netlify.app](http://ayodelesamueladebayo.netlify.app/)
+* LinkedIn: [Ayodele Samuel Adebayo](https://www.linkedin.com/in/ayodele-samuel-ayodele-55902819a/)
+* Dev.to: [obaolanrewajuadeola](https://medium.com/@obaolanrewajuadeola)
+
