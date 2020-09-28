@@ -1,7 +1,7 @@
 ## 👋 Hey there! I am Ayodele Samuel Adebayo
 
 <!--- ![Readme Cover](https://github.com/unclebay143/unclebay143/blob/master/cover.jpg) -->
-##	&#x1F4C9; GitHub Stats
+##	&#x1F4C9; GitHub Stats -- ![](https://visitor-badge.laobi.icu/badge?page_id=unclebay143)
 
 <a href="https://github.com/unclebay143/unclebay143">
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unclebay143&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
