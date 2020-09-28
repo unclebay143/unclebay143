@@ -8,11 +8,13 @@
 </a>
 <a href="https://github.com/unclebay143/unclebay143">
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=unclebay143&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ayodele Samuel Adebayo's GitHub Stats" />
-</a>
+</a>  
+
 
 
 <!--- My name is ##Ayodele Samuel Adebayo##, and -->   
-  <br>
+  <br>  
+  
   I am a Front-end developer.
 
 Currently, I am currently a Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer .
