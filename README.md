@@ -11,7 +11,9 @@
 </a>
 
 
-<!--- My name is ##Ayodele Samuel Adebayo##, and --> I am a Front-end developer.
+<!--- My name is ##Ayodele Samuel Adebayo##, and -->   
+  
+  I am a Front-end developer.
 
 Currently, I am currently a Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer .
 
