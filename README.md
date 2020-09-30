@@ -1,7 +1,9 @@
 ## 👋 Hey there! I am Ayodele Samuel Adebayo
 
 <!--- ![Readme Cover](https://github.com/unclebay143/unclebay143/blob/master/cover.jpg) -->
-##	&#x1F4C9; GitHub Stats -- ![](https://visitor-badge.laobi.icu/badge?page_id=unclebay143)
+##	&#x1F4C9; GitHub Stats -- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/ayodele-samuel-ayodele-55902819a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/unclebigbay/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/Ayodele29338919) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://dev.to/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=unclebay143)
 
 <a href="https://github.com/unclebay143/unclebay143">
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unclebay143&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
