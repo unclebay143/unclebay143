@@ -13,10 +13,9 @@
 </a>  
 
 <!--- My name is ##Ayodele Samuel Adebayo##, and --->
-&#x263A; I am a Front-end developer.
-I am an alumni Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer.  
+&#x263A; I am an alumni Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer.  
 
-I am currently a Freelancer and a Part-time Javascript Tutor 
+I am currently a Freelancer and a Part-time Javascript and React Tutor 
 
 Solving problems with my software development skills is what moves me and keeps me in a constant quest for knowledge.
 
@@ -47,5 +46,5 @@ I love to talk about algorithm, automations, design patterns, code patterns, and
 ### Get in Touch
 * Personal Website: [ayodelesamueladebayo.netlify.app](http://ayodelesamueladebayo.netlify.app/)
 * LinkedIn: [Ayodele Samuel Adebayo](https://www.linkedin.com/in/ayodele-samuel-ayodele-55902819a/)
-* Medium: [obaolanrewajuadeola](https://medium.com/@obaolanrewajuadeola)
+* Medium: [obaolanrewajuadeola](https://unclebay143.medium.com/)
 
