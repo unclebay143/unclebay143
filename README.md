@@ -41,7 +41,8 @@ Continuous deployment on
 
 The tools come and go, but some concepts are kept, that's where I keep my efforts.
 
-I love to talk about algorithm, automations, design patterns, code patterns, and things that make me a better developer.
+
+<!--I love to talk about algorithm, automations, design patterns, code patterns, and things that make me a better developer.-->
 
 ### Get in Touch
 * Personal Website: [ayodelesamueladebayo.netlify.app](http://ayodelesamueladebayo.netlify.app/)
