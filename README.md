@@ -1,4 +1,4 @@
-## 👋 Hey there! I am Ayodele Samuel Adebayo, a Frontend Developer
+## 👋 Hey there! I am a Frontend Developer
 
 <!--- ![Readme Cover](https://github.com/unclebay143/unclebay143/blob/master/cover.jpg) -->
 ##	&#x260E; Contact me - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/ayodele-samuel-ayodele-55902819a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/unclebigbay/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/Ayodele29338919) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://dev.to/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/)
@@ -14,18 +14,27 @@
 
 <!--- My name is ##Ayodele Samuel Adebayo##, and --->
 &#x263A; I am a Front-end developer.
+I am an alumni Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer.  
 
-Currently, I am currently a Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer .
+I am currently a Freelancer and a Part-time Javascript Tutor 
 
-Solving problems with my software development skills is what moves me and keeps me in a constant search for knowledge.
+Solving problems with my software development skills is what moves me and keeps me in a constant quest for knowledge.
 
-I have proficiency in  
+I am proficient in  
 - JavaScript  
 - HTML  
 - CSS  
-  and packages / libraries such as:
+- Git Version Control  
+and packages / libraries such as:
 - ReactJS
-- Bootstrap
+- Bootstrap  
+
+Continuous deployment on  
+- Netlify
+- Vercel
+- Heroku
+- Cpanel
+
 <!--Also:
 - Django
 - Python
