@@ -23,8 +23,9 @@ I am proficient in
 - JavaScript  
 - HTML  
 - CSS  
-- Git Version Control  
-and packages / libraries such as:
+- Git Version Control
+
+Packages / libraries such as:
 - ReactJS
 - Bootstrap  
 
@@ -47,5 +48,5 @@ The tools come and go, but some concepts are kept, that's where I keep my effort
 ### Get in Touch
 * Personal Website: [ayodelesamueladebayo.netlify.app](http://ayodelesamueladebayo.netlify.app/)
 * LinkedIn: [Ayodele Samuel Adebayo](https://www.linkedin.com/in/ayodele-samuel-ayodele-55902819a/)
-* Medium: [obaolanrewajuadeola](https://unclebay143.medium.com/)
+* Medium: [unclebay143.medium.com](https://unclebay143.medium.com/)
 
