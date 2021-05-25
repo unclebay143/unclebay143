@@ -46,7 +46,8 @@ The tools come and go, but some concepts are kept, that's where I keep my effort
 <!--I love to talk about algorithm, automations, design patterns, code patterns, and things that make me a better developer.-->
 
 ### Get in Touch
-* Personal Website: [ayodelesamueladebayo.netlify.app](http://ayodelesamueladebayo.netlify.app/)
-* LinkedIn: [Ayodele Samuel Adebayo](https://www.linkedin.com/in/ayodele-samuel-ayodele-55902819a/)
+* Link Tree: [unclebigbay](https://linktr.ee/unclebigbay)
+* Personal Website: [ayodelesamueladebayo.netlify.app](https://unclebigbay.netlify.app/#)
+* LinkedIn: [Ayodele Samuel Adebayo](https://www.linkedin.com/in/unclebigbay/)
 * Medium: [unclebay143.medium.com](https://unclebay143.medium.com/)
 
