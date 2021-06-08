@@ -51,7 +51,8 @@ The tools come and go, but some concepts are kept, that's where I keep my effort
 
 ### Get in Touch
 * Link Tree: [unclebigbay](https://linktr.ee/unclebigbay)
-* Personal Website: [ayodelesamueladebayo.netlify.app](https://unclebigbay.netlify.app/#)
+* Personal Website: [unclebigbay.dev](https://www.unclebigbay.dev)
+* Blog: [unclebigbay.com](https://www.unclebigbay.com)
 * LinkedIn: [Ayodele Samuel Adebayo](https://www.linkedin.com/in/unclebigbay/)
-* Medium: [unclebay143.medium.com](https://unclebay143.medium.com/)
+* Medium: [unclebay143.medium.com](https://www.unclebay143.medium.com/)
 
