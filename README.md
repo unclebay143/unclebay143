@@ -11,11 +11,14 @@
 <a href="https://github.com/unclebay143/unclebay143">
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=unclebay143&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ayodele Samuel Adebayo's GitHub Stats" />
 </a>  
-
+  
+  
+    
+ #
 <!--- My name is ##Ayodele Samuel Adebayo##, and --->
 &#x263A; I am an alumni Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer.  
 
-Currently a Freelancer and a Part-time Javascript and React Tutor 
+Currently a Freelancer, Technical Writer and a Part-time Javascript and React Tutor 
 
 Solving problems with my software development skills is what moves me and keeps me in a constant quest for knowledge.
 
