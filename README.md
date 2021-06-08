@@ -16,7 +16,7 @@
     
  #
 <!--- My name is ##Ayodele Samuel Adebayo##, and --->
-&#x263A; I am an alumni Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer.  
+I am an alumni Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer &#x263A;.  
 
 Currently a Freelancer, Technical Writer and a Part-time Javascript and React Tutor 
 
@@ -26,6 +26,7 @@ I am proficient in
 - JavaScript  
 - HTML  
 - CSS  
+- Bootstrap
 - Git Version Control
 
 Packages / libraries such as:
