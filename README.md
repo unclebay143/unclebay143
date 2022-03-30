@@ -27,11 +27,13 @@ I am proficient in
 - HTML  
 - CSS  
 - Bootstrap
+- Tailwind CSS
 - Git Version Control
 
 Packages / libraries such as:
 - ReactJS
 - Bootstrap  
+- Tailwind CSS
 
 Continuous deployment on  
 - Netlify
