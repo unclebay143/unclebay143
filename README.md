@@ -11,9 +11,15 @@
 <a href="https://github.com/unclebay143/unclebay143">
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=unclebay143&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ayodele Samuel Adebayo's GitHub Stats" />
 </a>  
-  
-  
-    
+
+<!-- Streak -->
+#
+<!-- <p align="center"> -->
+  <a href="https://unclebigbay.com">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=unclebay143&theme=prussian&hide_border=true" alt="[YOUR_ALT]"/>
+ </a>
+<!-- </p>  -->
+
  #
 <!--- My name is ##Ayodele Samuel Adebayo##, and --->
 I am an alumni Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer &#x263A;.  
@@ -23,11 +29,9 @@ Currently a Freelancer, Technical Writer and a Part-time Javascript and React Tu
 Solving problems with my software development skills is what moves me and keeps me in a constant quest for knowledge.
 
 I am proficient in  
-- JavaScript  
 - HTML  
 - CSS  
-- Bootstrap
-- Tailwind CSS
+- JavaScript  
 - Git Version Control
 
 Packages / libraries such as:
