@@ -50,6 +50,8 @@ Continuous deployment on
 - Python
 --> 
 
+
+
 The tools come and go, but some concepts are kept, that's where I keep my efforts.
 
 
@@ -61,4 +63,8 @@ The tools come and go, but some concepts are kept, that's where I keep my effort
 * Blog: [unclebigbay.com](https://www.unclebigbay.com)
 * LinkedIn: [Ayodele Samuel Adebayo](https://www.linkedin.com/in/unclebigbay/)
 * Medium: [unclebay143.medium.com](https://www.unclebay143.medium.com/)
+
+
+[![@unclebigbay's Holopin board](https://holopin.io/api/user/board?user=unclebigbay)](https://holopin.io/@unclebigbay)
+
 
