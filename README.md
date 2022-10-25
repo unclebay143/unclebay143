@@ -65,6 +65,15 @@ The tools come and go, but some concepts are kept, that's where I keep my effort
 * Medium: [unclebay143.medium.com](https://www.unclebay143.medium.com/)
 
 
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+
+<p align="center">
+<div align=center>
+  <a href="https://github.com/unclebay143" title="Go to Profile">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=unclebay143&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+
+
 [![@unclebigbay's Holopin board](https://holopin.io/api/user/board?user=unclebigbay)](https://holopin.io/@unclebigbay)
-
-
