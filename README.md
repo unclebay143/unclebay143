@@ -5,6 +5,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=unclebay143)
 
+[![Check out unclebay143's profile on stardev.io](https://stardev.io/developers/unclebay143/badge/languages/locality.svg)](https://stardev.io/developers/unclebay143)
+
 <a href="https://github.com/unclebay143/unclebay143">
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unclebay143&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
