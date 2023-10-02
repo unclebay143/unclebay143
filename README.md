@@ -18,7 +18,7 @@
 #
 <!-- <p align="center"> -->
   <a href="https://unclebigbay.com">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=unclebay143&theme=prussian&hide_border=true" alt="[YOUR_ALT]"/>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=unclebay143&theme=prussian&hide_border=true" alt="Streak stat"/>
  </a>
 <!-- </p>  -->
 
