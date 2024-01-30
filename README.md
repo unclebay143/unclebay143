@@ -1,4 +1,13 @@
-## 👋 Hey there! I am a Frontend Developer, call me uncle-big-bay
+
+### 👋 Hey there! I'm unclebigbay, a software engineer and content creator from Nigeria.
+
+## Currently
+- Working as a Software Engineer at [Hashnode](https://hashnode.com/)
+- Working as a Frontend Instructor at [TIIDELab](https://twitter.com/tiidelab)
+- Teaching people how to code in 2024 on [my YouTube Channel](https://www.youtube.com/@unclebigbay)
+
+[![Learn to code with Unclebigbay](https://github.com/unclebay143/unclebay143/assets/58919619/9923a12a-c264-48bd-b3ec-4ddbe2fbb117)](https://www.youtube.com/@unclebigbay)
+
 
 <!--- ![Readme Cover](https://github.com/unclebay143/unclebay143/blob/master/cover.jpg) -->
 ##	&#x260E; Contact me - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/ayodele-samuel-ayodele-55902819a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20' color="red">](https://www.instagram.com/unclebigbay/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/unclebigbay143) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://dev.to/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/)
@@ -62,7 +71,6 @@ The tools come and go, but some concepts are kept, that's where I keep my effort
 
 ### Get in Touch
 * Link Tree: [unclebigbay](https://linktr.ee/unclebigbay)
-<!-- * Personal Website: [unclebigbay.dev](https://www.unclebigbay.dev) -->
 * Blog: [unclebigbay.com](https://www.unclebigbay.com)
 * LinkedIn: [Ayodele Samuel Adebayo](https://www.linkedin.com/in/unclebigbay/)
 * Medium: [unclebay143.medium.com](https://www.unclebay143.medium.com/)
