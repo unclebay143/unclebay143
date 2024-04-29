@@ -57,6 +57,10 @@ Continuous deployment on
 - Heroku
 - Cpanel
 
+APIs
+- Rest
+- GQL
+
 <!--Also:
 - Django
 - Python
