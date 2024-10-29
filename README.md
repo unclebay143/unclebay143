@@ -3,13 +3,15 @@
 
 ## Currently
 - Working as a Software Engineer at [Hashnode](https://hashnode.com/)
-- Working as a Frontend Instructor at [TIIDELab](https://twitter.com/tiidelab)
+- Worked as a Frontend Instructor at [TIIDELab](https://twitter.com/tiidelab)
 - Teaching people how to code in 2024 on [my YouTube Channel](https://www.youtube.com/@unclebigbay)
 
 [![Learn to code with Unclebigbay](https://github.com/unclebay143/unclebay143/assets/58919619/9923a12a-c264-48bd-b3ec-4ddbe2fbb117)](https://www.youtube.com/@unclebigbay)
 
 
 <!--- ![Readme Cover](https://github.com/unclebay143/unclebay143/blob/master/cover.jpg) -->
+
+<!---
 ##	&#x260E; Contact me - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/ayodele-samuel-ayodele-55902819a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20' color="red">](https://www.instagram.com/unclebigbay/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/unclebigbay143) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://dev.to/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=unclebay143)
@@ -22,13 +24,24 @@
 <a href="https://github.com/unclebay143/unclebay143">
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=unclebay143&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ayodele Samuel Adebayo's GitHub Stats" />
 </a>  
+-->
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=58919619" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=58919619&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @unclebay143" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=58919619&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!-- Streak -->
 #
 <!-- <p align="center"> -->
-  <a href="https://unclebigbay.com">
+ <!-- <a href="https://unclebigbay.com">
    <img src="http://github-readme-streak-stats.herokuapp.com?user=unclebay143&theme=prussian&hide_border=true" alt="Streak stat"/>
- </a>
+ </a> -->
 <!-- </p>  -->
 
  #
