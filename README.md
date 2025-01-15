@@ -1,31 +1,6 @@
+# 👋 Hi, I'm Ayodele Samuel Adebayo (Unclebigbay)  
 
-### 👋 Hey there! I'm unclebigbay, a software engineer and content creator from Nigeria.
-
-## Currently
-- Working as a Software Engineer at [Hashnode](https://hashnode.com/)
-- Worked as a Frontend Instructor at [TIIDELab](https://twitter.com/tiidelab)
-- Teaching people how to code in 2024 on [my YouTube Channel](https://www.youtube.com/@unclebigbay)
-
-[![Learn to code with Unclebigbay](https://github.com/unclebay143/unclebay143/assets/58919619/9923a12a-c264-48bd-b3ec-4ddbe2fbb117)](https://www.youtube.com/@unclebigbay)
-
-
-<!--- ![Readme Cover](https://github.com/unclebay143/unclebay143/blob/master/cover.jpg) -->
-
-<!---
-##	&#x260E; Contact me - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/ayodele-samuel-ayodele-55902819a/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20' color="red">](https://www.instagram.com/unclebigbay/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/unclebigbay143) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://dev.to/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=unclebay143)
-
-[![Check out unclebay143's profile on stardev.io](https://stardev.io/developers/unclebay143/badge/languages/locality.svg)](https://stardev.io/developers/unclebay143)
-
-<a href="https://github.com/unclebay143/unclebay143">
-  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unclebay143&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/unclebay143/unclebay143">
-  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=unclebay143&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ayodele Samuel Adebayo's GitHub Stats" />
-</a>  
--->
-
+I'm a **Software Engineer** passionate about solving problems and building impactful solutions through technology. Over the years, I've honed my skills in **frontend development**, **teaching**, and **technical writing**, sharing my knowledge while building scalable and user-friendly web applications.  
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=58919619" target="_blank" style="display: block" align="center">
   <picture>
@@ -34,66 +9,65 @@
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+### 🔧 What I Do  
+I focus on crafting exceptional user experiences, mentoring others in their coding journey, and contributing to the developer community. With a solid foundation in **JavaScript** and modern frontend frameworks, I am always exploring new challenges and opportunities to learn.  
 
-<!-- Streak -->
-#
-<!-- <p align="center"> -->
- <!-- <a href="https://unclebigbay.com">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=unclebay143&theme=prussian&hide_border=true" alt="Streak stat"/>
- </a> -->
-<!-- </p>  -->
+#### Currently
+- Working as a Software Engineer at [Hashnode](https://hashnode.com/)
+- Teaching people how to code on [my YouTube Channel](https://www.youtube.com/@unclebigbay)
 
- #
-<!--- My name is ##Ayodele Samuel Adebayo##, and --->
-I am an alumni Fellow at TIIDELab a software development initiative in Abuja as a Junior Front-end Developer &#x263A;.  
+### 💻 Skills & Tools  
+<!-- https://github.com/Ileriayo/markdown-badges -->
+#### Languages  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+ 
 
-Currently a Freelancer, Technical Writer, and a Part-time Javascript and React Tutor 
+#### Frameworks & Libraries  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-Solving problems with my software development skills is what moves me and keeps me in a constant quest for knowledge.
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ 
 
-I am proficient in  
-- HTML  
-- CSS  
-- JavaScript  
-- Git Version Control
-
-Packages/libraries such as:
-- ReactJS
-- NextJS
-- Bootstrap  
-- Tailwind CSS
-
-Continuous deployment on  
-- Netlify
-- Vercel
-- Heroku
-- Cpanel
-
-APIs
-- Rest
-- GQL
-
-<!--Also:
-- Django
-- Python
---> 
+#### Version Control & Deployment  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 
+#### API Experience  
+- REST  
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-The tools come and go, but some concepts are kept, that's where I keep my efforts.
+I believe tools and technologies come and go, but foundational concepts remain vital. My focus is on mastering those concepts while adapting to new tools.  
+
+### 📬 Get in Touch  
+- ✍️ **Portfolio**: [unclebigbay.com](https://unclebigbay.com)
+- 🌐 **Linktree**: [@unclebigbay](https://linktr.ee/unclebigbay)
+- ✍️ **Blog**: [unclebigbay.com/blog](https://unclebigbay.com/blog)  
+- 💼 **LinkedIn**: [Ayodele Samuel Adebayo](https://www.linkedin.com/in/ayodele-samuel-adebayo)
+- 📝 **Hashnode**: [hashnode.com/@unclebigbay](https://hashnode.com/@unclebigbay)
+- 📝 **Medium**: [unclebay143.medium.com](https://unclebay143.medium.com)
+  
+
+Let’s build something amazing together! 
 
 
-<!--I love to talk about algorithms, automations, design patterns, code patterns, and things that make me a better developer.-->
-
-### Get in Touch
-* Link Tree: [unclebigbay](https://linktr.ee/unclebigbay)
-* Blog: [unclebigbay.com](https://www.unclebigbay.com)
-* LinkedIn: [Ayodele Samuel Adebayo](https://www.linkedin.com/in/unclebigbay/)
-* Medium: [unclebay143.medium.com](https://www.unclebay143.medium.com/)
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Profile Awards and Trophies</p><br>
 
 <p align="center">
 <div align=center>
