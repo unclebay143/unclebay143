@@ -58,22 +58,45 @@ I believe tools and technologies come and go, but foundational concepts remain v
 
 Let’s build something amazing together! 
 
-## 📈 GitHub Stat
+
+ 
+---
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Reward & verifiable digital badges for skills, achievements, and memories.</p><br>
+
 [![@unclebigbay's Holopin board](https://holopin.io/api/user/board?user=unclebigbay)](https://holopin.io/@unclebigbay)
+
+---
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Profile Awards and Trophies</p><br>
 <div align=center>
-  ![](https://visitor-badge.laobi.icu/badge?page_id=unclebay143)
   <a href="https://github.com/unclebay143" title="Go to Profile">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=unclebay143&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=unclebay143&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
+---
+
+<p align="center">📈 Github overview dashboard </p>
+
+<div align=center>
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=58919619" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=58919619&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @unclebay143" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=58919619&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+</div>
 
+---
+
+<p align="center">🏆 National and Global Ranking </p>
+
+<div align=center>
+ 
 [![Check out unclebay143's profile on stardev.io](https://stardev.io/developers/unclebay143/badge/languages/locality.svg)](https://stardev.io/developers/unclebay143)
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=unclebay143)
+
+</div>
