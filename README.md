@@ -94,7 +94,7 @@ Let’s build something amazing together!
 
 <div align=center>
  
-[![Check out unclebay143's profile on stardev.io](https://stardev.io/developers/unclebay143/badge/languages/locality.svg)](https://stardev.io/developers/unclebay143)
+[![Check out unclebay143's profile on stardev.io](https://stardev.io/developers/unclebay143/badge/languages/locality.svg?latest)](https://stardev.io/developers/unclebay143)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=unclebay143)
