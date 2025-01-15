@@ -1,22 +1,15 @@
 # 👋 Hi, I'm Ayodele Samuel Adebayo (Unclebigbay)  
 
-I'm a **Software Engineer** passionate about solving problems and building impactful solutions through technology. Over the years, I've honed my skills in **frontend development**, **teaching**, and **technical writing**, sharing my knowledge while building scalable and user-friendly web applications.  
+I'm a Software Engineer, Technical Writer, and Tech Educator from Nigeria 🇳🇬, passionate about solving problems and building impactful solutions through technology. Over the years, I've honed my skills in frontend development, backend development, and teaching, while working on scalable and user-friendly software products.
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=58919619" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=58919619&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @unclebay143" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=58919619&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+I am dedicated to crafting exceptional user experiences, mentoring others in their coding journey, and contributing actively to the developer community. With a solid foundation in JavaScript and modern frontend frameworks, I continuously seek out new challenges and opportunities to grow.
 
-### 🔧 What I Do  
-I focus on crafting exceptional user experiences, mentoring others in their coding journey, and contributing to the developer community. With a solid foundation in **JavaScript** and modern frontend frameworks, I am always exploring new challenges and opportunities to learn.  
+In my free time, I love exploring nature, collaborating with others, and finding creative inspiration in everyday life.
 
 #### Currently
 - Working as a Software Engineer at [Hashnode](https://hashnode.com/)
 - Teaching people how to code on [my YouTube Channel](https://www.youtube.com/@unclebigbay)
 
-### 💻 Skills & Tools  
 <!-- https://github.com/Ileriayo/markdown-badges -->
 #### Languages  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,8 +43,7 @@ I focus on crafting exceptional user experiences, mentoring others in their codi
 
 
 #### API Experience  
-- REST  
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white), REST API
 
 I believe tools and technologies come and go, but foundational concepts remain vital. My focus is on mastering those concepts while adapting to new tools.  
 
@@ -66,16 +58,22 @@ I believe tools and technologies come and go, but foundational concepts remain v
 
 Let’s build something amazing together! 
 
+## 📈 GitHub Stat
+[![@unclebigbay's Holopin board](https://holopin.io/api/user/board?user=unclebigbay)](https://holopin.io/@unclebigbay)
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Profile Awards and Trophies</p><br>
-
-<p align="center">
 <div align=center>
+  ![](https://visitor-badge.laobi.icu/badge?page_id=unclebay143)
   <a href="https://github.com/unclebay143" title="Go to Profile">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=unclebay143&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-</p>
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=58919619" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=58919619&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @unclebay143" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=58919619&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-[![@unclebigbay's Holopin board](https://holopin.io/api/user/board?user=unclebigbay)](https://holopin.io/@unclebigbay)
+[![Check out unclebay143's profile on stardev.io](https://stardev.io/developers/unclebay143/badge/languages/locality.svg)](https://stardev.io/developers/unclebay143)
