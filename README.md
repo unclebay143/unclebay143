@@ -7,8 +7,15 @@ I am dedicated to crafting exceptional user experiences, mentoring others in the
 In my free time, I love exploring nature, collaborating with others, and finding creative inspiration in everyday life.
 
 #### Currently
-- Working as a Software Engineer at [Hashnode](https://hashnode.com/)
+- Working as a Software Engineer at [Bug0](https://bug0.com/), [Hashnode](https://hashnode.com/)
 - Teaching people how to code on [my YouTube Channel](https://www.youtube.com/@unclebigbay)
+
+## Current Projects
+- 🗃️ **[Globox](https://www.npmjs.com/package/globox)** - One command to list all globally installed npm, pnpm, and yarn packages (with an optional dashboard).
+- 🏝️ **[RealtyTracka](https://realtytracka.com)** - The Operating System for Land Sales in Nigeria
+- 👘 **[Wazobia](https://www.wazobiaattire.com/)** -  Virtually try on traditional clothing of Hausa, Igbo, Yoruba etc.
+- 🧴 **[Cream Scanner](https://www.creamscanner.com/)** - Analyze skincare and cosmetic products to determine their safety, ingredient composition, and suitability.
+
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 #### Languages  
