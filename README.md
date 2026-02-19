@@ -11,6 +11,7 @@ In my free time, I love exploring nature, collaborating with others, and finding
 - Teaching people how to code on [my YouTube Channel](https://www.youtube.com/@unclebigbay)
 
 ## Current Projects
+- 🧩 **[PuzzofMe](https://www.puzzofme.com/create)** - Turn your favourite moment into a puzzle your special someone has to solve.
 - 🗃️ **[Globox](https://www.npmjs.com/package/globox)** - One command to list all globally installed npm, pnpm, and yarn packages (with an optional dashboard).
 - 🏝️ **[RealtyTracka](https://realtytracka.com)** - The Operating System for Land Sales in Nigeria
 - 👘 **[Wazobia](https://www.wazobiaattire.com/)** -  Virtually try on traditional clothing of Hausa, Igbo, Yoruba etc.
