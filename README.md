@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Ayodele Samuel Adebayo (Unclebigbay)  
+# 👋 Hi, I'm Ayodele Samuel Adebayo (Uncle BigBay)  
 
-I'm a Software Engineer, Technical Writer, and Tech Educator from Nigeria 🇳🇬, passionate about solving problems and building impactful solutions through technology. Over the years, I've honed my skills in frontend development, backend development, and teaching, while working on scalable and user-friendly software products.
+I'm a Software Engineer and Tech Educator from Nigeria 🇳🇬, passionate about solving problems and building impactful solutions through technology. Over the years, I've honed my skills in frontend development, backend development, and teaching, while working on scalable and user-friendly software products.
 
 I am dedicated to crafting exceptional user experiences, mentoring others in their coding journey, and contributing actively to the developer community. With a solid foundation in JavaScript and modern frontend frameworks, I continuously seek out new challenges and opportunities to grow.
 
 In my free time, I love exploring nature, collaborating with others, and finding creative inspiration in everyday life.
 
 #### Currently
-- Working as a Software Engineer at [Bug0](https://bug0.com/), [Hashnode](https://hashnode.com/)
+- Working as a Software Engineer at [Bug0](https://bug0.com/)
 - Teaching people how to code on [my YouTube Channel](https://www.youtube.com/@unclebigbay)
 
 ## Current Projects
@@ -56,12 +56,12 @@ In my free time, I love exploring nature, collaborating with others, and finding
 I believe tools and technologies come and go, but foundational concepts remain vital. My focus is on mastering those concepts while adapting to new tools.  
 
 ### 📬 Get in Touch  
-- ✍️ **Portfolio**: [unclebigbay.com](https://unclebigbay.com)
-- 🌐 **Linktree**: [@unclebigbay](https://linktr.ee/unclebigbay)
-- ✍️ **Blog**: [unclebigbay.com/blog](https://unclebigbay.com/blog)  
+<!-- - ✍️ **Portfolio**: [unclebigbay.com](https://unclebigbay.com) 
+- 🌐 **Linktree**: [@unclebigbay](https://linktr.ee/unclebigbay)!-->
+<!--- - ✍️ **Blog**: [unclebigbay.com/blog](https://unclebigbay.com/blog)  !--->
 - 💼 **LinkedIn**: [Ayodele Samuel Adebayo](https://www.linkedin.com/in/ayodele-samuel-adebayo)
-- 📝 **Hashnode**: [hashnode.com/@unclebigbay](https://hashnode.com/@unclebigbay)
-- 📝 **Medium**: [unclebay143.medium.com](https://unclebay143.medium.com)
+<!--- 📝 **Hashnode**: [hashnode.com/@unclebigbay](https://hashnode.com/@unclebigbay)
+ 📝 **Medium**: [unclebay143.medium.com](https://unclebay143.medium.com) !--->
   
 
 Let’s build something amazing together! 
